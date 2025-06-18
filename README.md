@@ -1,1 +1,2 @@
-let aub op deze code is bijna maar nog niet helemaal af en dit word geprogrameert in de arduino IDE.
+Let aub op, deze code is nog niet helemaal af en dit wordt geprogrameerd in de arduino IDE.
+Deze code is voor een autootje met een arduino uno bord bedoeld.
